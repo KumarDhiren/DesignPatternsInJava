@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DesignPatternsInJava.iml" filepath="$PROJECT_DIR$/.idea/DesignPatternsInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designpatternsbasics/designpatternsbasics.iml" filepath="$PROJECT_DIR$/designpatternsbasics/designpatternsbasics.iml" />
+    </modules>
+  </component>
+</project>
